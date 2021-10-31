@@ -17,7 +17,7 @@ Showcase of Ganache Transaction and Gas used :https://youtu.be/TklvhwFBY9s
 Demo: https://youtu.be/81A34k5Q6a4  (Part1)
       https://youtu.be/i1nCdOVKTkw  (Part2)
 
-Learning Experience: Building cross platform app based on flutter was challenging.Also Learned how the blockchain transaction happened and the concepts associated to it
+Learning Experience: Building cross platform app based on flutter.Also Learned how the blockchain transaction happened and the concepts associated to it
 
 
 2020mt93636 (Himanshu Chaurishiya)
